@@ -2,7 +2,7 @@ package edu.uph.duasatusi.warungapps.Model;
 
 import io.realm.RealmObject;
 
-public class Produk extends  RealmObject{
+public class Produk extends RealmObject{
     //attribut
     private String namaProduk;
     private int hargaProduk;
